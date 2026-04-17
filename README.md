@@ -1,19 +1,14 @@
 # Cartes
 
-Projet Java - MIAGE L2 S2 - Modélisation Orientée Objet
+Modélisation orientée objet en Java.
 
 ## Contenu
 
 ### Jeu de cartes
-- `cartes/` : Modélisation d'un jeu de cartes (Carte, Paquet)
-- `main/` : Programme principal
+- `cartes/` : Carte et Paquet de cartes
 
 ### Feu tricolore
-- `feu/` : Simulation d'un feu tricolore (FeuTricolore)
-
-## Concepts abordés
-- Énumérations
-- Encapsulation et modélisation
+- `feu/` : Simulation d'un feu tricolore
 
 ## Technologie
 - Java
